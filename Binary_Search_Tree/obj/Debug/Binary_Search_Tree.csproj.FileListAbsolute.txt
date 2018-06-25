@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.exe
+c:\users\admin\documents\visual studio 2013\Projects\Binary_Search_Tree\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.exe
+c:\users\admin\documents\visual studio 2013\Projects\Binary_Search_Tree\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.pdb
