@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\ComplexQuadratic\ComplexQuadratic\bin\Debug\ComplexQuadratic.exe
+c:\users\admin\documents\visual studio 2010\Projects\ComplexQuadratic\ComplexQuadratic\bin\Debug\ComplexQuadratic.pdb
+c:\users\admin\documents\visual studio 2010\Projects\ComplexQuadratic\ComplexQuadratic\obj\x86\Debug\ComplexQuadratic.exe
+c:\users\admin\documents\visual studio 2010\Projects\ComplexQuadratic\ComplexQuadratic\obj\x86\Debug\ComplexQuadratic.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\ComplexQuadratic\ComplexQuadratic\obj\x86\Debug\ComplexQuadratic.csprojResolveAssemblyReference.cache

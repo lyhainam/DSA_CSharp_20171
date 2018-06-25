@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Complex_Quadratic\Complex_Quadratic\bin\Debug\Complex_Quadratic.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Complex_Quadratic\Complex_Quadratic\bin\Debug\Complex_Quadratic.exe
+c:\users\admin\documents\visual studio 2013\Projects\Complex_Quadratic\Complex_Quadratic\bin\Debug\Complex_Quadratic.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Complex_Quadratic\Complex_Quadratic\obj\Debug\Complex_Quadratic.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Complex_Quadratic\Complex_Quadratic\obj\Debug\Complex_Quadratic.exe
+c:\users\admin\documents\visual studio 2013\Projects\Complex_Quadratic\Complex_Quadratic\obj\Debug\Complex_Quadratic.pdb
