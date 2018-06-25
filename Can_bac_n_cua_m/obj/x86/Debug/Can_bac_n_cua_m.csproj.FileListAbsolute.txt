@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\Test2\obj\x86\Debug\Test2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\Test2\obj\x86\Debug\Test2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\Test2\bin\Debug\Test2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\Test2\bin\Debug\Test2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\Test2\obj\x86\Debug\Can_bac_n_cua_m.csprojResolveAssemblyReference.cache
