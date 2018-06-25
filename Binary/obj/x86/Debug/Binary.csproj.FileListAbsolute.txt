@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\Binary\bin\Debug\Binary.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\Binary\bin\Debug\Binary.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\Binary\obj\x86\Debug\Binary.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\Binary\obj\x86\Debug\Binary.pdb
