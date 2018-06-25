@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\DemTu\bin\Debug\DemTu.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\DemTu\bin\Debug\DemTu.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\DemTu\obj\x86\Debug\DemTu.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\DemTu\obj\x86\Debug\DemTu.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\DemTu\obj\x86\Debug\DemTu.csprojResolveAssemblyReference.cache
