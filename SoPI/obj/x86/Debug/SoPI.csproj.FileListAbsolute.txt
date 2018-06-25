@@ -1,0 +1,7 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\SoPI\bin\Debug\SoPI.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\SoPI\bin\Debug\SoPI.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\SoPI\obj\x86\Debug\SoPI.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Test\SoPI\obj\x86\Debug\SoPI.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Test\SoPI\obj\x86\Debug\SoPI.csprojResolveAssemblyReference.cache
+D:\GitHub\SoPI\obj\x86\Debug\SoPI.exe
+D:\GitHub\SoPI\obj\x86\Debug\SoPI.pdb
